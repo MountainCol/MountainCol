@@ -1,11 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on several projects including:
+    - A weather app that involves utilising AWS services (S3, Athena, Glue), Snowflake datawarehouse, Apache Airflow for orchestration and Tableau the visualisation. Chek out the repo here!   
 <!--
 **MountainCol/MountainCol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
